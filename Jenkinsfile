@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'esimtest_pipeline' } // Ensure this label matches your Jenkins node configuration
+    agent any // Ensure this label matches your Jenkins node configuration
 
     stages {
         stage('Start') {
