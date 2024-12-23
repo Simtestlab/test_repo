@@ -16,3 +16,5 @@ tested commit 1
 
 Giri velavan First Time Merging
 hi all
+
+added to squash
