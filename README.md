@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test_repo
 I am Prabha 
 Hardware engineer
@@ -17,3 +18,6 @@ tested commit 1
 
 
 Giri velavan Added
+=======
+okay
+>>>>>>> 6cdcb3e60ecbbe47965d6cd2caaed72c192f566d
