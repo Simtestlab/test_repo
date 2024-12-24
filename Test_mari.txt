@@ -1,2 +1,3 @@
 hi git 
 git to local 
+local to git 
